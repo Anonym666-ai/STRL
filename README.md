@@ -1,8 +1,8 @@
 # Implement of STRL for VAD 
-Official codes of CVPR22 paper: Learning Normal Dynamics in Videos with Meta Prototype Network (https://arxiv.org/abs/2104.06689)
+Official codes of paper: 'Spatio-Temporal Relation Learning for Video Anomaly Detection'
 
 # STRL Framework
-![image](./archi.pdf)
+![pdf](./archi.pdf)
 
 # AUC Results on Unsupervised VAD
 ![image](./AUCs.png)
