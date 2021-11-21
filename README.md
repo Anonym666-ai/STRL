@@ -1,8 +1,11 @@
 # Implement of STRL for VAD 
 Official codes of paper: 'Spatio-Temporal Relation Learning for Video Anomaly Detection'
 
+# STRL Abstract
+![image](./abstract.png)
+
 # STRL Framework
-![pdf](./archi.pdf)
+![image](./framework.png)
 
 # AUC Results on Unsupervised VAD
 ![image](./AUCs.png)
